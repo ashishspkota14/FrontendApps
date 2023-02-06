@@ -1,0 +1,19 @@
+{
+  "feedbacks": [
+    {
+      "text": "implementing json server",
+      "rating": 5,
+      "id": "d524a693-20d9-4732-9ce5-0508debf2a76"
+    },
+    {
+      "text": "some feedback",
+      "rating": 7,
+      "id": "3573bb06-0882-408f-ae1b-2e6bf9f33441"
+    },
+    {
+      "text": "new feedback",
+      "rating": 7,
+      "id": "5574a129-7c56-4422-8f90-1f708d39ddba"
+    }
+  ]
+}

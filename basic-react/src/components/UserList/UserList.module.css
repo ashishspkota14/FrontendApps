@@ -1,0 +1,45 @@
+.profileImg{
+    width: 250px;
+    height: 250px;
+}
+
+.user{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.container{
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    /* background-color: #; */
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    /* color: #ebb805; */
+    text-decoration: underline;
+}
+
+.para{
+    font-size: 20px;
+    /* color: #ebb805; */
+    margin-bottom: 25px;
+}
+
+.profile{
+    border: 1px solid #f4aa05;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 25px;
+    background-color: #f4aa05;
+}
+
+.username{
+    color: #fff;
+    font-size: 16px;
+    text-transform: capitalize;
+}
